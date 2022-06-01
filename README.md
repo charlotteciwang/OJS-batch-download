@@ -1,2 +1,2 @@
 # OJS-batch-download
-Downloading OJS journals in a batch by web scraping
+This program downloads OJS journals from a list of web pages in a .csv file using web scraping.
